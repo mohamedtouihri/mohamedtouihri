@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Web Development<br>🎯 Goals: Had become a senior web developer<br>🎲 In my free time i learn new tools & technologies</p>
+<p align="left">📚 I'm currently learning Web Development<br>🎯 Goal : Had become a senior web developer<br>🎲 In my free time i learn new tools & technologies</p>
 
 ###
 
